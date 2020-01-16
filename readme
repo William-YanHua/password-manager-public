@@ -1,0 +1,14 @@
+# This is a password manager software used in windows system.
+# 这是在windows系统上使用的密码管理软件.
+# How to execute
+Just need to download the file, then double clicking the software.
+If the warning `Failed to ...`, please check if there is `user/` in the directory. If yes, then try it again; else, please create this
+directory and create a file `log.log` in the new directory in manual, then try it again.
+# 怎么使用
+只需要下载好文件，然后双击这个软件就可以了。
+如果产生了`Failed to ...`的提示，请检查一下，当前目录是否有`user`文件夹。如果有，请再次尝试双击运行；如果没有，请手动创建该文件夹`user`，并且在该文件
+夹下创建`log.log`文件，然后再次尝试运行。
+
+
+remark: please place this software in a empty folder, so that it can create files in this folder.
+提示：请将软件放置到单独一个空文件夹下，这样它能够在这个文件夹下创建文件。
